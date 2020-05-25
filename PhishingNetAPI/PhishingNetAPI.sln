@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhishingNetAPI", "PhishingNetAPI\PhishingNetAPI.csproj", "{E7E7E78F-89A7-435E-8A3F-CB97FFA09756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelAccess", "ModelAccess\ModelAccess.csproj", "{36EA11DC-C17E-462C-8EB2-A91938C2FC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B124CE27-B033-4CC1-A29E-6739D6E7095B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E7E78F-89A7-435E-8A3F-CB97FFA09756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E7E78F-89A7-435E-8A3F-CB97FFA09756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E7E78F-89A7-435E-8A3F-CB97FFA09756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E7E78F-89A7-435E-8A3F-CB97FFA09756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EA11DC-C17E-462C-8EB2-A91938C2FC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EA11DC-C17E-462C-8EB2-A91938C2FC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EA11DC-C17E-462C-8EB2-A91938C2FC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EA11DC-C17E-462C-8EB2-A91938C2FC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B124CE27-B033-4CC1-A29E-6739D6E7095B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B124CE27-B033-4CC1-A29E-6739D6E7095B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B124CE27-B033-4CC1-A29E-6739D6E7095B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B124CE27-B033-4CC1-A29E-6739D6E7095B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
