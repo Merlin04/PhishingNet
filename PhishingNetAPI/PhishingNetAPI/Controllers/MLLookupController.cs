@@ -18,9 +18,9 @@ namespace PhishingNetAPI.Controllers
         }
         
         [HttpPost]
-        public string Post([FromBody] string text)
+        public string Post([FromBody] PostModel text)
         { 
-            ModelOutput output = _access.Predict(text);
+            ModelOutput output = _access.Predict(text.text);
             return JsonConvert.SerializeObject(output);
         }
     }
